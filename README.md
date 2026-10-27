@@ -3,7 +3,6 @@
 A responsive portfolio website for a BS Information Technology student. Includes an introduction, skills, academic projects, a resume page, and contact links.
 
 ## Files
-- `index.html` — main portfolio website
 - `resume.html` — printable resume (use **Print / Save as PDF**)
 - `style.css` — responsive layout and styling
 - `script.js` — mobile navigation menu
